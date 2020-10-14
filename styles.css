@@ -83,3 +83,9 @@ img {
   height:auto 
 }
 
+main .section-wrapper>div {
+  margin: auto;
+  max-width: 1100px;
+  padding 64px 32px;
+}
+
